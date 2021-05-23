@@ -13,6 +13,8 @@ Instrucțiuni privind funcționalitatea (acestea sunt disponibile și în colțu
 4. În panoul de instrucțiuni se poate efectua click pe "Culori generate aleatoriu"  pentru a fi observată o hartă generată cu culori aleatoare.
 
 5. În panoul de instrucțiuni se poate efectua click pe "Hartă neon" pentru a fi observată o harta neon.
+
+6. Pentru a aduce harta la forma inițială, trebuie efectuat un Refresh la pagina browser-ului.
  
 
 
